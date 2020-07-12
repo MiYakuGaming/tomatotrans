@@ -1,4 +1,4 @@
-# 00 Celemo / セレモ
+# 00 Celemo / セレモ Selemo
 0D1A41-J:これが バトルがめん. That is a Battle Screen
 0D1A4A-J:てきを こうげきするときは‥ When an enemy attacks..
 0D1A53-J:かならず ギミックをつかうんだ. Of course you can use a Gimmick.
@@ -11,7 +11,7 @@
 0D1AB9-J:さあ ここからが ほんばん! Well then, that's how it's done from here on out!
 0D1AC2-J:ギミックを つかうとき When using a Gimmick
 0D1ACB-J:ギミックコマンドがせいこうすると And when using a successful Gimmick Command
-0D1AD4-J:てきに だいダメ-ジを (The opponent) will take (big damage!)
+0D1AD4-J:てきに だいダメ-ジを (The opponent) will take (big damage)
 0D1ADD-J:あたえられるゾ! Will take!
 0D1AEC-J:この「はぐるまヨ-ヨ-」のばあい On the condition of this "Gear YoYo"
 0D1AFB-J:ここから のびる,バ-を‥ Here, the bar extends..
@@ -38,11 +38,11 @@
 0D1C23-J:そうびしている ギミックを Equipping a Gimmick
 0D1C2C-J:ぜんぶ つかいきらないと‥ and not using the Gimmicks up..
 0D1C35-J:もとどおりに ならないぞ! you must be like new!
-0D1C44-J:かんがえながら つかっていけよ! While thinking about it, goy ahead and use it!
-# 01 Celemo / セレモ
+0D1C44-J:かんがえながら つかっていけよ! While thinking about it, go ahead and use it!
+# 01 Celemo / セレモ Selemo
 0D1F1D-J:すごいのポイントは‥ Amazing points are..
 0D1F2D-J:コマンドを せいこうすると‥ and the correct command..
-0D1F4C-J:こうやって たまるんだ!  are save up like that!
+0D1F4C-J:こうやって たまるんだ!  are saved up like that!
 0D1F5B-J:ポイントは なんいどによって  According to the degree of difficulty in points
 0D1F64-J:たまりかたが ちがうんだ.  The way in which you gather is different.
 0D1F72-J:コマンドのなんいどが たかいと‥ The degree in difficulty with commands rises, and..
@@ -54,73 +54,73 @@
 0D1FE0-J:「すごいの」が つかえるぞ! You can use "Amazing"!
 0D1FE9-J:どう「すごいの」かは‥ How "Amazing" is..
 0D1FF8-J:つかってみての おたのしみ! Enjoy trying it out!
-# 0C Hack / ブリッキ
+# 0C Hack / ブリッキ Brick
 0D3CAE-J:おぼえてらっしゃい! Remember it!
-# 0D Slash / ゴリッキ
-0D3CD6-J:いまのは きいたゴリ~ I heard it now
+# 0D Slash / ゴリッキ Golick
+0D3CD6-J:いまのは きいたゴリ~ I heard it now, Gori~
 # 12 Froobs / うそガエルレディ Lying Frog Lady
-0D0F12-J:おはだが ツルツル よ~ん My skin is so slippery
+0D0F12-J:おはだが ツルツル よ~ん My skin is so slippery~
 # 17 Potfan / ポットマニア Pot Fanatic (Not the drugs)
 0D212C-J:アチッ! アチッチ! Ow! Owow!
 0D2136-J:シュッ (Blowing on hot soup)
 0D213D-J:シュッ シュッ Same as above
 0D2144-J:シュッ シュッ シュッ Save as above
 # 1A Oops / ウ-プス
-0D21F1-J:これで おしまいヨ!!
+0D21F1-J:これで おしまいヨ!! With that, it's over!!
 # 1B Mirarror / ミラクルミラ- Miracle Mirror
-0D2245-J:ウ-プスの ぼうぎょが あがった Oop's Mirrir's Defense Increased
+0D2245-J:ウ-プスの ぼうぎょが あがった Oop's Mirror's Defense Increased
 # 1C Windbath / ねじまきオフロ Screw Roll Hot Spring
 0D227C-J:つかれが とれるワ~ You seem exhausted~
-# 1D Hack / ブリッキ
-0D22B9-J:やられちゃいました ゴリッキさん
-0D22C0-J:まいったゴリ~
-0D230D-J:ゴリッキさん
-0D2314-J:れいのヤツ いきますよ!
-# 1E Slash / ゴリッキ
-0D2352-J:やられちゃいました ゴリッキさん
-0D2359-J:まいったゴリ~
-# 24 Seebass / ギョロン
-0D118B-J:ごちそうチャマ
-# 27 Sawbass / レッドギョロン
-0D11A3-J:ごちそうチャマ
-# 26 Seebass / ギョロン
-0D11BB-J:ごちそうチャマ
-# 29 Cap.Size / ガ-ゴせんちょう
-0D0FE2-J:すてきな プレゼント あげるガゴ
-0D0FE9-J:そ・れ・は ‥
-0D0FF0-J:ギミックに オジャマ ガゴ~!
-0D1004-J:メリ- クリスマス ガゴ!
-0D100E-J:これが プレゼントガゴ!
-# 2A Cap.Size / ガ-ゴせんちょう
-0D10C1-J:アリャリャ ばれちゃったガゴ
-0D10C8-J:そっちは にんぎょうガゴ
-0D10E3-J:メリ- クリスマス ガゴ!
-0D10ED-J:これが プレゼントガゴ!
-# 2B Cap.Size / ガ-ゴせんちょう
-0D106D-J:よく‥みやぶった‥ガゴ‥
-0D108A-J:どっちが ほんものガゴ?
-0D109D-J:メリ- クリスマス ガゴ!
-0D10A7-J:これが プレゼントガゴ!
+# 1D Hack / ブリッキ Brick
+0D22B9-J:やられちゃいました ゴリッキさん You've done it, sir Golick
+0D22C0-J:まいったゴリ~ I give up, Gori~
+0D230D-J:ゴリッキさん Sir Golick
+0D2314-J:れいのヤツ いきますよ! Let's go to the aforementioned person!
+# 1E Slash / ゴリッキ Golick
+0D2352-J:やられちゃいました ゴリッキさん You've done it, sir Golick
+0D2359-J:まいったゴリ~ I give up, Gori~
+# 24 Seebass / ギョロン Gyoron
+0D118B-J:ごちそうチャマ Thank you for the meal
+# 27 Sawbass / レッドギョロン Red Gyoron
+0D11A3-J:ごちそうチャマ Thank you for the meal
+# 26 Seebass / ギョロン Gyoron
+0D11BB-J:ごちそうチャマ Thank you for the meal
+# 29 Cap.Size / ガ-ゴせんちょう Gaago Ship's Captain
+0D0FE2-J:すてきな プレゼント あげるガゴ I'll give you a nice present, Gago
+0D0FE9-J:そ・れ・は ‥ T.h.a.t. i.s. ..
+0D0FF0-J:ギミックに オジャマ ガゴ~! That Gimmick is a hindrance, Gago~!
+0D1004-J:メリ- クリスマス ガゴ! Merry Christmas, Gago!
+0D100E-J:これが プレゼントガゴ! That is a Present, Gago!
+# 2A Cap.Size / ガ-ゴせんちょう Gaago Ship's Captain
+0D10C1-J:アリャリャ ばれちゃったガゴ AaaAaaa, it's leaked, Gago!
+0D10C8-J:そっちは にんぎょうガゴ There is a Puppet, Gago
+0D10E3-J:メリ- クリスマス ガゴ! Merry Christmas, Gago!
+0D10ED-J:これが プレゼントガゴ! That is a Present, Gago!
+# 2B Cap.Size / ガ-ゴせんちょう Gaago Ship's Captain
+0D106D-J:よく‥みやぶった‥ガゴ‥ You..have a sharp eye..Gago
+0D108A-J:どっちが ほんものガゴ? Which one is the real me, Gago?
+0D109D-J:メリ- クリスマス ガゴ! Merry Christmas, Gago!
+0D10A7-J:これが プレゼントガゴ! That is a Present, Gago!
 # 2C Cap.Size / ガ-ゴせんちょう
 0D1109-J:アリャリャ ばれちゃったガゴ
-0D1110-J:よくできた にんぎょうだったガゴ
-0D1117-J:でも‥ いつも わざの なまえを
-0D111E-J:まちがえて いたガゴ~
-0D1137-J:こんどは どっちガゴ?
+0D1110-J:よくできた にんぎょうだったガゴ T'was a well balanced figure, Gago
+0D1117-J:でも‥ いつも わざの なまえを But.. the name of the technique will..
+0D111E-J:まちがえて いたガゴ~ never be mistaken, Gago~
+0D1137-J:こんどは どっちガゴ? Which is it this time, Gago?
 0D114A-J:メリ- クリスマス ガゴ!
 0D1154-J:これが プレゼントガゴ!
 # 2D Cap.Size / ガ-ゴせんちょう
-0D1029-J:おまえら ホントに つよいガゴ~
+0D1029-J:おまえら ホントに つよいガゴ~ You are all truly strong, Gago~
 0D1048-J:メリ- クリスマス ガゴ!
 0D1052-J:これが プレゼントガゴ!
-# 2F Octolina / タコチュリ-ナ
-0D2593-J:タコなぐりチュ-ッ!
-# 31 Pompador / リ-ゼント
-0D23D6-J:オ‥ オレさまの リ-ゼントが~
-0D2425-J:とっておきの しんきょくだゼ!!
-0D2415-J:こいつが リ-ゼント じゃ~ん!
-0D240B-J:まずは あいさつがわりだゼ!
-# 32 SuprMike / ス-パ-マイク
+# 2F Octolina / タコチュリ-ナ Octochulina
+0D2593-J:タコなぐりチュ-ッ! Octopus Strike, Chuu!
+# 31 Pompador / リ-ゼント Regent
+0D23D6-J:オ‥ オレさまの リ-ゼントが~ M.. My great Regent~
+0D2425-J:とっておきの しんきょくだゼ!! That's the best, newest song!!
+0D2415-J:こいつが リ-ゼント じゃ~ん! This is the Regent, ta-daa!
+0D240B-J:まずは あいさつがわりだゼ! First is greetings!
+# 32 SuprMike / ス-パ-マイク Super Mike
 0D24B1-J:こもりうたで おねんねしな~!
 0D24BB-J:こころに しみる ラブソング!
 0D24C4-J:ドキドキ しちゃうぜ ワォ-ッ!
