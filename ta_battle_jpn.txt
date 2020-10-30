@@ -101,16 +101,16 @@
 0D108A-J:どっちが ほんものガゴ? Which one is the real me, Gago?
 0D109D-J:メリ- クリスマス ガゴ! Merry Christmas, Gago!
 0D10A7-J:これが プレゼントガゴ! That is a Present, Gago!
-# 2C Cap.Size / ガ-ゴせんちょう
-0D1109-J:アリャリャ ばれちゃったガゴ
-0D1110-J:よくできた にんぎょうだったガゴ T'was a well balanced figure, Gago
+# 2C Cap.Size / ガ-ゴせんちょう Captain Gag
+0D1109-J:アリャリャ ばれちゃったガゴ Oh oh, ya caught me, Gag.
+0D1110-J:よくできた にんぎょうだったガゴ T'was a fine puppet, Gag
 0D1117-J:でも‥ いつも わざの なまえを But.. the name of the technique will..
 0D111E-J:まちがえて いたガゴ~ never be mistaken, Gago~
 0D1137-J:こんどは どっちガゴ? Which is it this time, Gago?
-0D114A-J:メリ- クリスマス ガゴ!
-0D1154-J:これが プレゼントガゴ!
-# 2D Cap.Size / ガ-ゴせんちょう
-0D1029-J:おまえら ホントに つよいガゴ~ You are all truly strong, Gago~
+0D114A-J:メリ- クリスマス ガゴ! Merry Christmas, Gag!
+0D1154-J:これが プレゼントガゴ! This is a present, Gag!
+# 2D Cap.Size / ガ-ゴせんちょう Captain Gag
+0D1029-J:おまえら ホントに つよいガゴ~ You are all truly strong, Ga~g
 0D1048-J:メリ- クリスマス ガゴ!
 0D1052-J:これが プレゼントガゴ!
 # 2F Octolina / タコチュリ-ナ Octochulina
@@ -121,46 +121,46 @@
 0D2415-J:こいつが リ-ゼント じゃ~ん! This is the Regent, ta-daa!
 0D240B-J:まずは あいさつがわりだゼ! First is greetings!
 # 32 SuprMike / ス-パ-マイク Super Mike
-0D24B1-J:こもりうたで おねんねしな~!
-0D24BB-J:こころに しみる ラブソング!
-0D24C4-J:ドキドキ しちゃうぜ ワォ-ッ!
-0D24CD-J:ギンギンの ギャンギャンだぜっ!
-# 33 BigDonut / とくだいド-ナツ
-0D250C-J:ド-ナツ たべちゃうゼ!
-# 3E Poochie / ポチ
-0D15C3-J:がる~~~ッ
-0D1612-J:がる~ がるるる~ ががるっ
-0D1619-J:(ポチちゃん ひとりじゃ やだ)
-0D162C-J:ポチさま おまたせしたゴキ
-0D1633-J:ポチさま およびでチュか
-0D166C-J:がる~ がるるる~ ががるっ
-0D1673-J:(ポチちゃん ひとりじゃ やだ)
-0D167A-J:がる!? がるるぅ~
-0D1681-J:(あれ!? なんで こないの~)
+0D24B1-J:こもりうたで おねんねしな~! I'm not sleeping on a childish lullaby~!
+0D24BB-J:こころに しみる ラブソング! My heart is infected with loving!
+0D24C4-J:ドキドキ しちゃうぜ ワォ-ッ! Completely thumping, whoa~h!
+0D24CD-J:ギンギンの ギャンギャンだぜっ! Escatically yelling!
+# 33 BigDonut / とくだいド-ナツ Large Doughnut
+0D250C-J:ド-ナツ たべちゃうゼ! I'll eat that doughnut, yea!
+# 3E Poochie / ポチ Pooch
+0D15C3-J:がる~~~ッ Grr~~
+0D1612-J:がる~ がるるる~ ががるっ Grr~ Grrr~ G..Grr
+0D1619-J:(ポチちゃん ひとりじゃ やだ) (Pooch is alone)
+0D162C-J:ポチさま おまたせしたゴキ Great Pooch, kept ya waiting, Goki
+0D1633-J:ポチさま およびでチュか Great Pooch, did ya callchu?
+0D166C-J:がる~ がるるる~ ががるっ Grr~ Grrr~ G..Grr~
+0D1673-J:(ポチちゃん ひとりじゃ やだ) 
+0D167A-J:がる!? がるるぅ~ Grr!? Grruu~
+0D1681-J:(あれ!? なんで こないの~) (Eh!? Why aren't you coming~?)
 0D163F-J:がる~ がるるる~ ががるっ
 0D1646-J:(ポチちゃん ひとりじゃ やだ)
 0D1659-J:ポチさま おまたせしたゴキ
 0D1660-J:ポチさま およびでチュか
 # 3F Crony / ポチのてした
-0D155D-J:ポチさま
-0D1564-J:しょくじの じかんゴキ~
+0D155D-J:ポチさま Great Pooch
+0D1564-J:しょくじの じかんゴキ~ It's time for food, Goki~
 0D156D-J:がる~ がるるぅ~~
-0D1574-J:(ポチちゃん しあわせ~)
-# 40 Crony / ポチのてした
-0D1595-J:ポチさま
-0D159C-J:しょくじの じかんでチュ-
+0D1574-J:(ポチちゃん しあわせ~) (Pooch is happy~)
+# 40 Crony / ポチのてした Pooch's Henchman
+0D1595-J:ポチさま Great Pooch
+0D159C-J:しょくじの じかんでチュ- Time for food, Chu~
 0D15A5-J:がる~ がるるぅ~~
 0D15AC-J:(ポチちゃん しあわせ~)
-# 43 Snakid / ノミコンダキッズ
-0D26CE-J:あははっ まけちゃった
-0D26EE-J:あはははははははっ!
+# 43 Snakid / ノミコンダキッズ Kid GulpaConda
+0D26CE-J:あははっ まけちゃった Ahaha, lost
+0D26EE-J:あはははははははっ! Ahahahahahahaha!
 # 45 Snakid / ノミコンダキッズ
-0D2712-J:チキショ-! まけちまったぜ!
-0D2732-J:かんにんぶくろの おがきれた-!
+0D2712-J:チキショ-! まけちまったぜ! Damni~t! I've lost, ugh!
+0D2732-J:かんにんぶくろの おがきれた-! You kids tested my patie~nce!
 # 47 Snakid / ノミコンダキッズ
-0D2756-J:シクシク まけちゃったよ~
-0D2788-J:うわ~ん こらしめてやる~
-# 49 Hack / ブリッキ
+0D2756-J:シクシク まけちゃったよ~ Sniff, I looost ya'know
+0D2788-J:うわ~ん こらしめてやる~ Waaaaah, don't ridicule me~
+# 49 Hack / ブリッキ Brick
 0D3185-J:ゴリッヒしゃん!
 0D318C-J:アゴが はじゅれそう‥でしゅ
 0D31A6-J:ゴリッヒしゃん!
