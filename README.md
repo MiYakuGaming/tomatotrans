@@ -1,3 +1,8 @@
+**MiYaku Gaming Disclaimer:**
+Credits belong to the original hacker that worked on this game, MiYaku has only translated the script from scratch to be as accurate and uncensored as possible.
+
+Translation work is currently experimental, check back later when it is more robust.
+
 Description
 ===========
 
