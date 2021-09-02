@@ -1,6 +1,6 @@
 # 00 Selemo
 0D1A41-E:This is the battle screen.
-0D1A4A-E:Whenever you attack an enemy...
+0D1A4A-E:When you attack an enemy...
 0D1A53-E:You always use Gimmicks.
 0D1A63-E:Press the [F5] button here.
 0D1A76-E:Pick the Gimmick you want...
@@ -38,13 +38,13 @@
 0D1C23-E:You have to use up ALL of the
 0D1C2C-E:ones that you have equipped
 0D1C35-E:before they'll recover!
-0D1C44-E:So use 'em wisely!
+0D1C44-E:So go and use 'em wisely!
 # 01 Selemo / セレモ
 0D1F1D-E:So, about AWE! points...
 0D1F2D-E:You build them up as you
 0D1F4C-E:use your Gimmicks successfully!
-0D1F5B-E:The amount of points you gain depends
-0D1F64-E:on your Gimmicks' difficulty levels.
+0D1F5B-E:The amount of points you gain changes
+0D1F64-E:based on your Gimmicks' difficulty levels.
 0D1F72-E:Higher difficulty levels...
 0D1F8F-E:will net you more points at once!
 0D1F98-E:BUT! If you fail...
@@ -53,14 +53,14 @@
 0D1FC3-E:And build up that gauge...
 0D1FE0-E:And you can use an AWE! attack!
 0D1FE9-E:It's pretty AWE!some...
-0D1FF8-E:So try using it!
-# 0C Brikky / ブリッキ
+0D1FF8-E:So try to enjoy using it!
+# 0C Brik / ブリッキ
 0D3CAE-E:You'll pay for this!
-# 0D Grikky / ゴリッキ
+# 0D Grik / ゴリッキ
 0D3CD6-E:Gah!
-# 12 Badfrog Gal / うそガエルレディ
+# 12 Liefrog Lady / うそガエルレディ
 0D0F12-E:Such lovely skin!
-# 17 Pothead / ポットマニア
+# 17 Potmaniac / ポットマニア
 0D212C-E:Hot! Hot-hot-hot!
 0D2136-E:Shoo
 0D213D-E:Shoo-shoo
@@ -70,14 +70,14 @@
 # 1B Miracle Mirror / ミラクルミラ-
 0D2245-E:Oops's DEF went up!
 # 1C Wind-up Bath / ねじまきオフロ
-0D227C-E:Ah! What a relief!
-# 1D Brikky / ブリッキ
-0D22B9-E:Brikky: I'm done for, Grikky!
+0D227C-E:Getting exhausted!
+# 1D Brik / ブリッキ
+0D22B9-E:Brikky: I'm done for, Grik!
 0D22C0-E:Brikky: They got me!
 0D230D-E:Brikky: Grikky!
 0D2314-E:Brikky: Let's do that one thing!
-# 1E Grikky / ゴリッキ
-0D2352-E:Grikky: They got me, Brikky!
+# 1E Grik / ゴリッキ
+0D2352-E:Grikky: They got me, Brik!
 0D2359-E:Grikky: Gwah!
 # 24 Seebass / ギョロン
 0D118B-E:Delicious!
