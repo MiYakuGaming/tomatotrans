@@ -1,83 +1,83 @@
-# 00 Celemo / セレモ Selemo
-0D1A41-J:これが バトルがめん. That is a Battle Screen
-0D1A4A-J:てきを こうげきするときは‥ When an enemy attacks..
-0D1A53-J:かならず ギミックをつかうんだ. Of course you can use a Gimmick.
-0D1A63-J:ここで [F5]ボタンをおすんだ. With that Press the Button.
-0D1A76-J:つかいたい ギミックをえらんで‥ If you want to use it, by selecting a Gimmick...
-0D1A7F-J:っても,いまはひとつしかないから  And, because there's one thing left
-0D1A88-J:ここで また[F5]ボタン. Here, ? Button again.
-0D1A99-J:こうげきの タ-ゲットをきめる. Choose a target to attack.
-0D1AA2-J:[F5]ボタンを おすんだ. Press the Button.
-0D1AB9-J:さあ ここからが ほんばん! Well then, that's how it's done from here on out!
-0D1AC2-J:ギミックを つかうとき When using a Gimmick
-0D1ACB-J:ギミックコマンドがせいこうすると And when using a successful Gimmick Command
-0D1AD4-J:てきに だいダメ-ジを (The opponent) will take (big damage)
-0D1ADD-J:あたえられるゾ! Will take!
-0D1AEC-J:この「はぐるまヨ-ヨ-」のばあい On the condition of this "Gear YoYo"
-0D1AFB-J:ここから のびる,バ-を‥ Here, the bar extends..
-0D1B0A-J:ここから From here
-0D1B19-J:ここの あいだに‥ Within this space
-0D1B2F-J:[F5]ボタンで とめる! Stop with the Button!
-0D1B3F-J:こんどは じぶんで やってみな! This time, try it out!
-0D1B48-J:おっと わすれてたぜ Oh, I forgot!
-0D1B58-J:これが せいげんじかん.  There is a Time Limit.
-0D1B67-J:ぜんぶ あかくなるまえに  Before it is completely red
-0D1B70-J:コマンドをいれろ! Use the command!
-0D1B80-J:じゃ,はじめるゼ! Well, begin!
-0D1B95-J:バッチリだぜ! あいたたた‥ Perfect! Ouch..
-0D1BA4-J:いたた‥ Ouch..
-0D1BAD-J:もっと れんしゅうしなきゃ な‥ You must practice more, huh..
-0D1BC2-J:でよ! ギミックは‥ Certainly! This Gimmick is..
-0D1BCB-J:つかえる かいすうが‥ The number to use is..
-0D1BD4-J:きまってるんだ. chosen.
-0D1BE3-J:ここの すうじが かいすうだ!  The frequency of times are these!
-0D1BEC-J:この かいすうを つかいきると‥  And using up all these numbers..
-0D1C02-J:もとどおりに かいふく するぞ! You'll be just like new!
-0D1C0B-J:けど ほかに いろんなギミックを Though there are other Gimmicks
-0D1C14-J:てにいれた ときには‥ you can aqcuire, as for that time..
-0D1C23-J:そうびしている ギミックを Equipping a Gimmick
-0D1C2C-J:ぜんぶ つかいきらないと‥ and not using the Gimmicks up..
-0D1C35-J:もとどおりに ならないぞ! you must be like new!
-0D1C44-J:かんがえながら つかっていけよ! While thinking about it, go ahead and use it!
-# 01 Celemo / セレモ Selemo
-0D1F1D-J:すごいのポイントは‥ Amazing points are..
-0D1F2D-J:コマンドを せいこうすると‥ and the correct command..
-0D1F4C-J:こうやって たまるんだ!  are saved up like that!
-0D1F5B-J:ポイントは なんいどによって  According to the degree of difficulty in points
-0D1F64-J:たまりかたが ちがうんだ.  The way in which you gather is different.
-0D1F72-J:コマンドのなんいどが たかいと‥ The degree in difficulty with commands rises, and..
-0D1F8F-J:いちどに たくさん たまるんだ!  accumulate a lot of it in one go!
-0D1F98-J:ただし しっぱいしちゃうと‥ And say for example you mess up..
-0D1FB1-J:ポイントが ぜんぶなくなる! all your points disappear!
-0D1FBA-J:つづけて せいこうして‥ Continually doing it right..
-0D1FC3-J:ポイントが たまったら‥ if points are gathered..
-0D1FE0-J:「すごいの」が つかえるぞ! You can use "Amazing"!
-0D1FE9-J:どう「すごいの」かは‥ How "Amazing" is..
-0D1FF8-J:つかってみての おたのしみ! Enjoy trying it out!
-# 0C Hack / ブリッキ Brick
-0D3CAE-J:おぼえてらっしゃい! Remember it!
-# 0D Slash / ゴリッキ Golick
-0D3CD6-J:いまのは きいたゴリ~ I heard it now, Gori~
+# 00 Celemo / セレモ
+0D1A41-J:これが バトルがめん.
+0D1A4A-J:てきを こうげきするときは‥
+0D1A53-J:かならず ギミックをつかうんだ.
+0D1A63-J:ここで [F5]ボタンをおすんだ.
+0D1A76-J:つかいたい ギミックをえらんで‥
+0D1A7F-J:っても,いまはひとつしかないから
+0D1A88-J:ここで また[F5]ボタン.
+0D1A99-J:こうげきの タ-ゲットをきめる.
+0D1AA2-J:[F5]ボタンを おすんだ.
+0D1AB9-J:さあ ここからが ほんばん!
+0D1AC2-J:ギミックを つかうとき
+0D1ACB-J:ギミックコマンドがせいこうすると
+0D1AD4-J:てきに だいダメ-ジを
+0D1ADD-J:あたえられるゾ!
+0D1AEC-J:この「はぐるまヨ-ヨ-」のばあい
+0D1AFB-J:ここから のびる,バ-を‥
+0D1B0A-J:ここから
+0D1B19-J:ここの あいだに‥
+0D1B2F-J:[F5]ボタンで とめる!
+0D1B3F-J:こんどは じぶんで やってみな!
+0D1B48-J:おっと わすれてたぜ
+0D1B58-J:これが せいげんじかん.
+0D1B67-J:ぜんぶ あかくなるまえに
+0D1B70-J:コマンドをいれろ!
+0D1B80-J:じゃ,はじめるゼ!
+0D1B95-J:バッチリだぜ! あいたたた‥
+0D1BA4-J:いたた‥
+0D1BAD-J:もっと れんしゅうしなきゃ な‥
+0D1BC2-J:でよ! ギミックは‥ 
+0D1BCB-J:つかえる かいすうが‥
+0D1BD4-J:きまってるんだ.
+0D1BE3-J:ここの すうじが かいすうだ!
+0D1BEC-J:この かいすうを つかいきると‥
+0D1C02-J:もとどおりに かいふく するぞ!
+0D1C0B-J:けど ほかに いろんなギミックを
+0D1C14-J:てにいれた ときには‥
+0D1C23-J:そうびしている ギミックを
+0D1C2C-J:ぜんぶ つかいきらないと‥
+0D1C35-J:もとどおりに ならないぞ!
+0D1C44-J:かんがえながら つかっていけよ!
+# 01 Celemo / セレモ
+0D1F1D-J:すごいのポイントは‥ 
+0D1F2D-J:コマンドを せいこうすると‥
+0D1F4C-J:こうやって たまるんだ!
+0D1F5B-J:ポイントは なんいどによって
+0D1F64-J:たまりかたが ちがうんだ.
+0D1F72-J:コマンドのなんいどが たかいと‥
+0D1F8F-J:いちどに たくさん たまるんだ!
+0D1F98-J:ただし しっぱいしちゃうと‥
+0D1FB1-J:ポイントが ぜんぶなくなる!
+0D1FBA-J:つづけて せいこうして‥
+0D1FC3-J:ポイントが たまったら‥
+0D1FE0-J:「すごいの」が つかえるぞ!
+0D1FE9-J:どう「すごいの」かは‥
+0D1FF8-J:つかってみての おたのしみ!
+# 0C Brik / ブリッキ
+0D3CAE-J:おぼえてらっしゃい!
+# 0D Grik / ゴリッキ
+0D3CD6-J:いまのは きいたゴリ~
 # 12 Froobs / うそガエルレディ Lying Frog Lady
-0D0F12-J:おはだが ツルツル よ~ん My skin is so slippery~
+0D0F12-J:おはだが ツルツル よ~ん
 # 17 Potfan / ポットマニア Pot Fanatic (Not the drugs)
 0D212C-J:アチッ! アチッチ! Ow! Owow!
-0D2136-J:シュッ (Blowing on hot soup)
-0D213D-J:シュッ シュッ Same as above
-0D2144-J:シュッ シュッ シュッ Save as above
+0D2136-J:シュッ
+0D213D-J:シュッ シュッ
+0D2144-J:シュッ シュッ シュッ
 # 1A Oops / ウ-プス
-0D21F1-J:これで おしまいヨ!! With that, it's over!!
-# 1B Mirarror / ミラクルミラ- Miracle Mirror
-0D2245-J:ウ-プスの ぼうぎょが あがった Oop's Mirror's Defense Increased
-# 1C Windbath / ねじまきオフロ Screw Roll Hot Spring
-0D227C-J:つかれが とれるワ~ You seem exhausted~
+0D21F1-J:これで おしまいヨ!!
+# 1B Mirarror / ミラクルミラ-
+0D2245-J:ウ-プスの ぼうぎょが あがった
+# 1C Windingbath / ねじまきオフロ
+0D227C-J:つかれが とれるワ~
 # 1D Hack / ブリッキ Brick
-0D22B9-J:やられちゃいました ゴリッキさん You've done it, sir Golick
-0D22C0-J:まいったゴリ~ I give up, Gori~
-0D230D-J:ゴリッキさん Sir Golick
-0D2314-J:れいのヤツ いきますよ! Let's go to the aforementioned person!
+0D22B9-J:やられちゃいました ゴリッキさん
+0D22C0-J:まいったゴリ~
+0D230D-J:ゴリッキさん
+0D2314-J:れいのヤツ いきますよ!
 # 1E Slash / ゴリッキ Golick
-0D2352-J:やられちゃいました ゴリッキさん You've done it, sir Golick
+0D2352-J:やられちゃいました ゴリッキさん
 0D2359-J:まいったゴリ~ I give up, Gori~
 # 24 Seebass / ギョロン Gyoron
 0D118B-J:ごちそうチャマ Thank you for the meal
