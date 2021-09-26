@@ -1,27 +1,27 @@
 # 00 Selemo
 0D1A41-E:This is the battle screen.
-0D1A4A-E:Whenever you attack an enemy...
-0D1A53-E:You always use Gimmicks.
+0D1A4A-E:At a time you attack an enemy...
+0D1A53-E:Always use Gimmicks.
 0D1A63-E:Press the [F5] button here.
-0D1A76-E:Pick the Gimmick you want...
-0D1A7F-E:...even though you've only got one...
-0D1A88-E:And hit [F5] again.
-0D1A99-E:Now pick your target.
-0D1AA2-E:Press [F5].
-0D1AB9-E:All right! This is it!
+0D1A76-E:By choosing the Gimmick you want...
+0D1A7F-E:...and of course, because you have only one...
+0D1A88-E:Here, press [F5] again.
+0D1A99-E:Decide your attack target.
+0D1AA2-E:Press the [F5] Button.
+0D1AB9-E:Okay it's your turn from here!
 0D1AC2-E:When you use a Gimmick,
-0D1ACB-E:if you do the command just right,
-0D1AD4-E:you'll deal more damage
-0D1ADD-E:to the enemy!
-0D1AEC-E:Using the Gear-Yo, a growing
-0D1AFB-E:and shrinking bar will appear.
-0D1B0A-E:Stop it in this red zone from here...
-0D1B19-E:To here...
-0D1B2F-E:Using the [F5] button!
-0D1B3F-E:Now it's your turn!
-0D1B48-E:Oh, and one more thing!
-0D1B58-E:You're on a time limit,
-0D1B67-E:so complete the command before
+0D1ACB-E:and when you complete a Gimmick Command,
+0D1AD4-E:the enemy will receive
+0D1ADD-E:greater damage!
+0D1AEC-E:In the case of the "Gear Yo-Yo"
+0D1AFB-E:the bar, extends from here...
+0D1B0A-E:from here...
+0D1B19-E:in this space..
+0D1B2F-E:Stop with the [F5] button!
+0D1B3F-E:This time try it by yourself!
+0D1B48-E:Oh I've forgotten!
+0D1B58-E:That is a time limit.
+0D1B67-E:so complete the command before (Continue Translating from here)
 0D1B70-E:all these lights light up!
 0D1B80-E:All right, let's start!
 0D1B95-E:Yeowch... that's the ticket!
