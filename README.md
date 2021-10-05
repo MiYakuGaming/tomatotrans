@@ -1,7 +1,13 @@
-**MiYaku Gaming Disclaimer:**
-Credits belong to the original hacker that worked on this game, MiYaku has only translated the script from scratch to be as accurate and uncensored as possible.
+**MiYaku Disclaimer:**
+===========
+
+Credits belong to the original hacker, unknownbrackets, that worked on the original translation for this game, MiYaku has only referenced the original Japanese Script to be as accurate and uncensored as possible.
+Any work toward unknownbracket's translation has been abandoned and unknownbrackets will reference my Translation.
+Please be aware that this is my translation alone, if you want something different, check out the original from unknownbrackets.
 
 Translation work is currently experimental, check back later when it is more robust.
+
+Now from the original team below.
 
 Description
 ===========
