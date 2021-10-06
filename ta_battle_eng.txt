@@ -21,64 +21,64 @@
 0D1B3F-E:This time try it by yourself!
 0D1B48-E:Oh I've forgotten!
 0D1B58-E:That is a time limit.
-0D1B67-E:so complete the command before (Continue Translating from here)
-0D1B70-E:all these lights light up!
-0D1B80-E:All right, let's start!
-0D1B95-E:Yeowch... that's the ticket!
-0D1BA4-E:Oww...
-0D1BAD-E:You need some more practice...
-0D1BC2-E:Also, each Gimmick can only
-0D1BCB-E:be used a limited number of
-0D1BD4-E:times before it runs out.
-0D1BE3-E:This number is that limit!
-0D1BEC-E:Use up all your Gimmicks...
-0D1C02-E:And you'll recover them all!
-0D1C0B-E:But, once you've obtained some
-0D1C14-E:other Gimmicks...
-0D1C23-E:You have to use up ALL of the
-0D1C2C-E:ones that you have equipped
-0D1C35-E:before they'll recover!
-0D1C44-E:So use 'em wisely!
+0D1B67-E:Enter a command
+0D1B70-E:before it becomes entirely red!
+0D1B80-E:Well, begin!
+0D1B95-E:Spot on... ouch!
+0D1BA4-E:Ouch...
+0D1BAD-E:You must practice more eh...
+0D1BC2-E:Well! Gimmicks..
+0D1BCB-E:the amount you can use
+0D1BD4-E:are fixed.
+0D1BE3-E:This number is that amount!
+0D1BEC-E:Exhaust that amount...
+0D1C02-E:and they will restored as before!
+0D1C0B-E:Though, when you have obtained
+0D1C14-E:various other Gimmicks...
+0D1C23-E:not entirely exhausting the
+0D1C2C-E:equipped Gimmick..
+0D1C35-E:must get it back to as before..
+0D1C44-E:Think about it while using it!
 # 01 Selemo / セレモ
-0D1F1D-E:So, about AWE! points...
-0D1F2D-E:You build them up as you
-0D1F4C-E:use your Gimmicks successfully!
-0D1F5B-E:The amount of points you gain depends
-0D1F64-E:on your Gimmicks' difficulty levels.
-0D1F72-E:Higher difficulty levels...
-0D1F8F-E:will net you more points at once!
-0D1F98-E:BUT! If you fail...
-0D1FB1-E:You can kiss all your points goodbye!
-0D1FBA-E:Succeed with your Gimmicks...
-0D1FC3-E:And build up that gauge...
-0D1FE0-E:And you can use an AWE! attack!
-0D1FE9-E:It's pretty AWE!some...
-0D1FF8-E:So try using it!
-# 0C Brikky / ブリッキ
-0D3CAE-E:You'll pay for this!
-# 0D Grikky / ゴリッキ
+0D1F1D-E:Awesome Points...
+0D1F2D-E:and with a successful command..
+0D1F4C-E:you accumulate like that!
+0D1F5B-E:The way points are accumulated..
+0D1F64-E:change based on difficulty.
+0D1F72-E:A higher command difficulty...
+0D1F8F-E:accumulate a lot of points at once!
+0D1F98-E:Though if you fail entirely...
+0D1FB1-E:points completely disappear!
+0D1FBA-E:If you were to accumulate points...
+0D1FC3-E:continuously succeed...
+0D1FE0-E:you can use "Awesome"!
+0D1FE9-E:How "Awesome" it is huh...
+0D1FF8-E:It's fun so try it out!
+# 0C Brick / ブリッキ
+0D3CAE-E:You'll pay for this! (Continue Translating from this line)
+# 0D Grick / ゴリッキ
 0D3CD6-E:Gah!
 # 12 Badfrog Gal / うそガエルレディ
 0D0F12-E:Such lovely skin!
-# 17 Pothead / ポットマニア
+# 17 PotMania / ポットマニア
 0D212C-E:Hot! Hot-hot-hot!
 0D2136-E:Shoo
 0D213D-E:Shoo-shoo
 0D2144-E:Shoo-shoo-shoo!
-# 1A Oops / ウ-プス
+# 1A Uups / ウ-プス
 0D21F1-E:This is where you perish!
 # 1B Miracle Mirror / ミラクルミラ-
 0D2245-E:Oops's DEF went up!
 # 1C Wind-up Bath / ねじまきオフロ
 0D227C-E:Ah! What a relief!
-# 1D Brikky / ブリッキ
-0D22B9-E:Brikky: I'm done for, Grikky!
+# 1D Brick / ブリッキ
+0D22B9-E:Brikky: I'm done for, Grick!
 0D22C0-E:Brikky: They got me!
-0D230D-E:Brikky: Grikky!
+0D230D-E:Brikky: Grick!
 0D2314-E:Brikky: Let's do that one thing!
-# 1E Grikky / ゴリッキ
-0D2352-E:Grikky: They got me, Brikky!
-0D2359-E:Grikky: Gwah!
+# 1E Grick / ゴリッキ
+0D2352-E:Grick: They got me, Brikky!
+0D2359-E:Grick: Gwah!
 # 24 Seebass / ギョロン
 0D118B-E:Delicious!
 # 27 Sawbass / レッドギョロン
