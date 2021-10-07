@@ -55,45 +55,45 @@
 0D1FE9-E:How "Awesome" it is huh...
 0D1FF8-E:It's fun so try it out!
 # 0C Brick / ブリッキ
-0D3CAE-E:You'll pay for this! (Continue Translating from this line)
+0D3CAE-E:Remember this!
 # 0D Grick / ゴリッキ
-0D3CD6-E:Gah!
-# 12 Badfrog Gal / うそガエルレディ
-0D0F12-E:Such lovely skin!
-# 17 PotMania / ポットマニア
-0D212C-E:Hot! Hot-hot-hot!
-0D2136-E:Shoo
-0D213D-E:Shoo-shoo
-0D2144-E:Shoo-shoo-shoo!
+0D3CD6-E:I heard that just now Gori!
+# 12 Lying Frog Lady / うそガエルレディ
+0D0F12-E:Skin is quite smooth yo~n!
+# 17 Pot Maniac / ポットマニア
+0D212C-E:Hot! Ho-hot!
+0D2136-E:Shuu
+0D213D-E:Shuu Shuu
+0D2144-E:Shuu Shuu Shuu!
 # 1A Uups / ウ-プス
-0D21F1-E:This is where you perish!
+0D21F1-E:This is where it ends!
 # 1B Miracle Mirror / ミラクルミラ-
-0D2245-E:Oops's DEF went up!
-# 1C Wind-up Bath / ねじまきオフロ
-0D227C-E:Ah! What a relief!
+0D2245-E:Uups's defense went up!
+# 1C Spring Winding Bath / ねじまきオフロ
+0D227C-E:Getting tired!
 # 1D Brick / ブリッキ
-0D22B9-E:Brikky: I'm done for, Grick!
-0D22C0-E:Brikky: They got me!
-0D230D-E:Brikky: Grick!
-0D2314-E:Brikky: Let's do that one thing!
+0D22B9-E:Brick: I completely suffered damage, Grick!
+0D22C0-E:Brick: I give up, Gri~!
+0D230D-E:Brick: Grick!
+0D2314-E:Brick: Let's go with that one thing!
 # 1E Grick / ゴリッキ
-0D2352-E:Grick: They got me, Brikky!
-0D2359-E:Grick: Gwah!
-# 24 Seebass / ギョロン
-0D118B-E:Delicious!
-# 27 Sawbass / レッドギョロン
-0D11A3-E:Tasty!
-# 26 Seebass / ギョロン
-0D11BB-E:Yum yum!
-# 29 Capn' Garco / ガ-ゴせんちょう
-0D0FE2-E:I've got a nice present for yarr!
-0D0FE9-E:Let's see...
-0D0FF0-E:I'll mess up your gimmicks!
-0D1004-E:Merrrrry Christmas!
-0D100E-E:I've got a present for yarr!
-# 2A Capn' Garco / ガ-ゴせんちょう
-0D10C1-E:Arrrgh! The jig is up!
-0D10C8-E:That one's a puppet!
+0D2352-E:Grick: I completely suffered damage, Grick!
+0D2359-E:Grick: I give up, Gri~!
+# 24 Fishing Controversy / ギョロン
+0D118B-E:Thank you for the meal.
+# 27 Red Fishing Controversy / レッドギョロン
+0D11A3-E:Thank you for the meal.
+# 26 Fishing Controversy / ギョロン
+0D11BB-E:Thank you for the meal.
+# 29 Captain Gago / ガ-ゴせんちょう
+0D0FE2-E:I'll give you a nice present Gago
+0D0FE9-E:T.h.a.t i.s...
+0D0FF0-E:to hinder Gimmicks Gago~!
+0D1004-E:Merry Christmas Gago!
+0D100E-E:That is a present Gago!
+# 2A Captain Gago / ガ-ゴせんちょう
+0D10C1-E:Oohoh I've been exposed!
+0D10C8-E:That one's a puppet! (Continue with this line)
 0D10E3-E:Merrrrry Christmas!
 0D10ED-E:I've got a present for yarr!
 # 2B Capn' Garco / ガ-ゴせんちょう
