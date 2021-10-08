@@ -93,75 +93,75 @@
 0D100E-E:That is a present Gago!
 # 2A Captain Gago / ガ-ゴせんちょう
 0D10C1-E:Oohoh I've been exposed!
-0D10C8-E:That one's a puppet! (Continue with this line)
-0D10E3-E:Merrrrry Christmas!
-0D10ED-E:I've got a present for yarr!
-# 2B Capn' Garco / ガ-ゴせんちょう
-0D106D-E:You saw... right through me!
-0D108A-E:Which one's the real one?
-0D109D-E:Merrrrry Christmas!
-0D10A7-E:I've got a present for yarr!
-# 2C Capn' Garco / ガ-ゴせんちょう
-0D1109-E:Arrrgh! The jig is up!
-0D1110-E:Well done, my puppet!
-0D1117-E:But... it always messes up the
-0D111E-E:names of my attacks...
-0D1137-E:Which one is it?
-0D114A-E:Merrrrry Christmas!
-0D1154-E:I've got a present for yarr!
-# 2D Capn' Garco / ガ-ゴせんちょう
-0D1029-E:Yerr really strong, you!
-0D1048-E:Merrrrry Christmas!
-0D1052-E:I've got a present for yarr!
-# 2F Octorina / タコチュリ-ナ
-0D2593-E:Pucker up! Octo punch!
+0D10C8-E:That's a puppet Gago!
+0D10E3-E:Merry Christmas Gago!
+0D10ED-E:That's a present Gago!
+# 2B Captain Gago / ガ-ゴせんちょう
+0D106D-E:You saw.. well through me.. Gago..
+0D108A-E:Which is the real one Gago?
+0D109D-E:Merry Christmas Gago!
+0D10A7-E:That's a present Gago!
+# 2C Captain Gago / ガ-ゴせんちょう
+0D1109-E:Oohoh I've been exposed!
+0D1110-E:You were a great Puppet to do well Gago!
+0D1117-E:Though.. I have always
+0D111E-E:mistaken skill names Gago~
+0D1137-E:Which one is it this time?
+0D114A-E:Merry Christmas Gago!
+0D1154-E:That's a present Gago!
+# 2D Captain Gago / ガ-ゴせんちょう
+0D1029-E:You are all truly strong Gago~
+0D1048-E:Merry Christmas Gago!
+0D1052-E:That's a present Gago!
+# 2F Octochulina / タコチュリ-ナ
+0D2593-E:Octo Punch Chuu!
 # 31 Pompadour / リ-ゼント
-0D23D6-E:MERCY! My fabulous hairdo...!
-0D2425-E:Here's a new song for ya!
-0D2415-E:How do you like the do!
-0D240B-E:But first, a little gift!
+0D23D6-E:M.. My great Pompadour~
+0D2425-E:A new spare Song!!
+0D2415-E:That's our Pompadour ja~n!
+0D240B-E:First a substitute greeting!
 # 32 Super Mic / ス-パ-マイク
-0D24B1-E:Let me sing you to sleepy-sleep!
+0D24B1-E:Getting sleepy by the lullaby!
 0D24BB-E:A heart-piercing love song!
-0D24C4-E:MERCY! How exciting!
-0D24CD-E:Yadda-yadda blah-blah!
-# 33 Big Donut / とくだいド-ナツ
-0D250C-E:It's donut time!
-# 3E Poochy / ポチ
-0D15C3-E:Awooo!!!
-0D1612-E:Awoo! Awoo! Awoowoo!
-0D1619-E:(Poochy HATES being alone!)
-0D162C-E:Sorry to keep you waiting Poochy!
-0D1633-E:You called, Poochy?
-0D166C-E:Awoo! Awoo! Awoowoo!
-0D1673-E:(Poochy HATES being alone!)
-0D167A-E:Awoo!? Awoooooo!
-0D1681-E:(What!? Nobody came...!)
-0D163F-E:Awoo! Awoo! Awoowoo!
-0D1646-E:(Poochy HATES being alone!)
-0D1659-E:Sorry to keep Poochy waiting!
-0D1660-E:You called, Poochy?
-# 3F Crony / ポチのてした
-0D155D-E:Poochy!
-0D1564-E:Time to eat!
-0D156D-E:Awoo! Awoowoo!
-0D1574-E:(Poochy happy!)
-# 40 Crony / ポチのてした
-0D1595-E:Poochy!
-0D159C-E:Time to eat!
-0D15A5-E:Awoo! Awoowoo!
-0D15AC-E:(Poochy happy!)
-# 43 Conda Kid / ノミコンダキッズ
-0D26CE-E:AHAHAHAHA! I Lost!
-0D26EE-E:HA-HA-HA-HA-HA-HA!
-# 45 Conda Kid / ノミコンダキッズ
-0D2712-E:Son of a MAMA! I lost!
-0D2732-E:I can't take it anymore!
-# 47 Conda Kid / ノミコンダキッズ
-0D2756-E:*sobsob* I lost!
-0D2788-E:Waaaah! Time for your punishment!
-# 49 Brikky / ブリッキ
-0D3185-E:Brikky: Grihhy!
+0D24C4-E:Completely excited Waoo!
+0D24CD-E:Escatically yelping!
+# 33 Extra Large Doughnut / とくだいド-ナツ
+0D250C-E:Completely eat Doughnuts!
+# 3E Pooch / ポチ
+0D15C3-E:Garu~~~u!
+0D1612-E:Garu~ Garururu~ Gagaruu
+0D1619-E:(No way Pooch is alone)
+0D162C-E:I kept you waiting Pooch Goki!
+0D1633-E:You called Puuch?
+0D166C-E:Garu~ Garururu~ Gagaruu!
+0D1673-E:(No way Pooch is alone)
+0D167A-E:Garu!? Garuruu~
+0D1681-E:(Eh!? Why aren't you coming)
+0D163F-E:Garu~ Garuruu~ Gagaruu
+0D1646-E:(No way Pooch is alone)
+0D1659-E:I kept you waiting Pooch Goki!
+0D1660-E:You called Puuch?
+# 3F Pooch's Underling / ポチのてした
+0D155D-E:Master Pooch!
+0D1564-E:It's meal time Goki~
+0D156D-E:Garu~ Garuruu~
+0D1574-E:(Pooch is happy~)
+# 40 Pooch's Underling / ポチのてした
+0D1595-E:Master Pooch!
+0D159C-E:It's meal time Goki~
+0D15A5-E:Garu~ Garuruu~
+0D15AC-E:(Pooch is happy~)
+# 43 SwaConda Kid / ノミコンダキッズ
+0D26CE-E:Ahaha defeated
+0D26EE-E:Ahahahahahahahaa!
+# 45 SwaConda Kid / ノミコンダキッズ
+0D2712-E:Shiiit! Totally defeated!
+0D2732-E:I'm angry storing my patience!
+# 47 SwaConda Kid / ノミコンダキッズ
+0D2756-E:*Sniffle Sniffle* Completely defeated!
+0D2788-E:Uwa~n! I will punish you!
+# 49 Brick / ブリッキ
+0D3185-E:Brikky: Grihhy! (Continue with this line)
 0D318C-E:Brikky: My jawzh dishlochaded!
 0D31A6-E:Brikky: Grihhy!
 0D31AD-E:Brikky: My powah... gone...
