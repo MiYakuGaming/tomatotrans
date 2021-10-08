@@ -4,7 +4,7 @@
 Credits belong to the original hacker, unknownbrackets, that worked on the original translation for this game, MiYaku has only referenced the original Japanese Script to be as accurate and uncensored as possible.
 Any work toward unknownbracket's translation has been abandoned and unknownbrackets will reference my Translation.
 Please be aware that this is my translation alone, if you want something different, check out the original from unknownbrackets.
-Currently, the majority of the Englsih Translation is from unknownbracket's work and some of it is a bit inaccurate and is his own style, that is why this is in an experimental phase.
+Currently, the majority of the English Translation is from unknownbracket's work and some of it is a bit inaccurate and is his own style, that is why this is in an experimental phase.
 Eventually, the original Translation attempt will be completely replaced with my own.
 
 You can find my translations in the Commit section above and build it if you want to, follow the instructions below by unknownbrackets.
