@@ -1,16 +1,16 @@
 # 00 Selemo
-0D1A41-E:This is the battle screen.
-0D1A4A-E:At a time you attack an enemy...
+0D1A41-E:That is the battle screen.
+0D1A4A-E:When you attack an enemy
 0D1A53-E:Always use Gimmicks.
 0D1A63-E:Press the [F5] button here.
-0D1A76-E:By choosing the Gimmick you want...
-0D1A7F-E:...and of course, because you have only one...
+0D1A76-E:By choosing a Gimmick you want to use...
+0D1A7F-E:...and now, because you   only have one...
 0D1A88-E:Here, press [F5] again.
 0D1A99-E:Decide your attack target.
 0D1AA2-E:Press the [F5] Button.
 0D1AB9-E:Okay it's your turn from here!
 0D1AC2-E:When you use a Gimmick,
-0D1ACB-E:and when you complete a Gimmick Command,
+0D1ACB-E:and upon success of a    Gimmick Command
 0D1AD4-E:the enemy will receive
 0D1ADD-E:greater damage!
 0D1AEC-E:In the case of the "Gear Yo-Yo"
@@ -18,9 +18,9 @@
 0D1B0A-E:from here...
 0D1B19-E:in this space..
 0D1B2F-E:Stop with the [F5] button!
-0D1B3F-E:This time try it by yourself!
+0D1B3F-E:This time try it yourself!
 0D1B48-E:Oh I've forgotten!
-0D1B58-E:That is a time limit.
+0D1B58-E:This is a time limit.
 0D1B67-E:Enter a command
 0D1B70-E:before it becomes entirely red!
 0D1B80-E:Well, begin!
@@ -32,13 +32,13 @@
 0D1BD4-E:are fixed.
 0D1BE3-E:This number is that amount!
 0D1BEC-E:Exhaust that amount...
-0D1C02-E:and they will restored as before!
-0D1C0B-E:Though, when you have obtained
-0D1C14-E:various other Gimmicks...
-0D1C23-E:not entirely exhausting the
-0D1C2C-E:equipped Gimmick..
-0D1C35-E:must get it back to as before..
-0D1C44-E:Think about it while using it!
+0D1C02-E:and they will restored as  before!
+0D1C0B-E:Though,
+0D1C14-E:when you have obtained   various other Gimmicks...
+0D1C23-E:not entirely exhausting
+0D1C2C-E:the equipped Gimmick..
+0D1C35-E:it ought to be as before!
+0D1C44-E:Think about it while using  it!
 # 01 Selemo / セレモ
 0D1F1D-E:Awesome Points...
 0D1F2D-E:and with a successful command..
