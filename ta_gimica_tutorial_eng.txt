@@ -1,23 +1,23 @@
-00-E:All right so, the rules...[BREAK]
-First of all, we each have 200HP.[END]
+00-E:Eeeh I should tell you the rules huh...[BREAK]
+First you and I have 200HP each.[END]
 
-01-E:My HP's on the left...[END]
+01-E:Though my HP is on the left...[END]
 
-02-E:And your HP is on the right.[BREAK]
-Anyhow, if your HP hits 0, or...[BREAK]
-if you have less HP than your enemy[BREAK]
-at the end of a match, you lose.[END]
+02-E:your HP is obviously on the right.[BREAK]
+Anyhow, if the HP becomes 0 you lose[BREAK]
+Until the very end of the battle[BREAK]
+HP must be a little or you lose...[END]
 
-03-E:There's 2 cards in the middle.[BREAK]
-You use their power to...[BREAK]
-deal damage to your opponent.[END]
+03-E:Though two Cards come out in the middle.[BREAK]
+By the power of those Gimmick Cards[BREAK]
+the enemy receives damage...[END]
 
-04-E:The one on the left's my Gimmick Card.[END]
+04-E:Though on the left is my Gimmick Card[END]
 
-05-E:The right one's yours.[BREAK]
-These Gimmick Cards are related to[BREAK]
-the Gimmicks you've collected.[BREAK]
-But, they come out at random...[BREAK]
+05-E:Of course on the right is your Gimmick Card.[BREAK]
+The kind of Gimmick Cards are the same as[BREAK]
+Gimmicks you collected.[BREAK]
+Though it's not understood what comes out...[BREAK]
 The card ranks are between them.[BREAK]
 From strongest to weakest, they're...[END]
 
