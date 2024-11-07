@@ -179,7 +179,7 @@ Artistic Pillows![SIMPLEWAIT][END]
 
 025-E:[CENTER_H]Popoku: Popo... Popoku[BREAK]
 [CENTER_H]popopo...[WAIT]
-[CENTER_H](Crap... I'll have to[BREAK]
+[CENTER_H](Shit... I'll have to[BREAK]
 [CENTER_H]show you...)[WAIT]
 [CENTER_H]POPOPO! POPOPO![BREAK]
 [CENTER_H](MY TRUE POWER!)[SIMPLEWAIT][END]
@@ -188,7 +188,7 @@ Artistic Pillows![SIMPLEWAIT][END]
 [CENTER_H](LET'S GO!)[SIMPLEWAIT][END]
 
 027-E:[CENTER_H]Popoku: POPOKUPO![BREAK]
-[CENTER_H](BLAST IT!)[WAIT]
+[CENTER_H](DAMN IT!)[WAIT]
 [CENTER_H]POPOPO! POPOPO![BREAK]
 [CENTER_H](You'll pay for this...!)[SIMPLEWAIT][END]
 
@@ -659,7 +659,7 @@ What the!?[SIMPLEWAIT][END]
 096-E:[NAME1]: Of course...[SIMPLEWAIT][END]
 
 097-E:[CENTER_H]KUKUKU KUPOPO![BREAK]
-[CENTER_H](Crap! I was...)[WAIT]
+[CENTER_H](Damn! I was...)[WAIT]
 [CENTER_H]POPOPO-POPOPO!![BREAK]
 [CENTER_H](Hiding in here!)[SIMPLEWAIT][END]
 
